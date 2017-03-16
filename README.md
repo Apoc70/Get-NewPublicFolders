@@ -29,12 +29,12 @@ Query modern public folders for all public folders created during the last 31 da
 THIS CODE IS MADE AVAILABLE AS IS, WITHOUT WARRANTY OF ANY KIND. THE ENTIRE  
 RISK OF THE USE OR THE RESULTS FROM THE USE OF THIS CODE REMAINS WITH THE USER.
 
-##TechNet Gallery
+## TechNet Gallery
 Find the script at TechNet Gallery
 * https://gallery.technet.microsoft.com/Fetch-recently-created-635a7d98
 
 
-##Credits
+## Credits
 Written by: Thomas Stensitzki
 
 Stay connected:
