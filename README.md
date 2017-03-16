@@ -1,20 +1,20 @@
 # Get-NewPublicFolders.ps1
 Get all public folders created during the las X days
 
-##Description
+## Description
 This script gathers all public folders created during the last X days and exportes the gathered data to a CSV file.
 
-##Parameters
-###Days
+## Parameters
+### Days
 Number of last X days to filter newly created public folders. Default: 14 
 
-###Legacy
+### Legacy
 Switch to define that you want to query legacy public folders
 
-###ServerName
+### ServerName
 Name of Exchange server hostingl egacy public folders 
 
-##Examples
+## Examples
 ```
 .\Get-NewPublicFolders.ps1 -Days 31 -ServerName MYPFSERVER01 -Legacy
 ```
