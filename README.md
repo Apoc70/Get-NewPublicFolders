@@ -33,11 +33,10 @@ RISK OF THE USE OR THE RESULTS FROM THE USE OF THIS CODE REMAINS WITH THE USER.
 Find the script at TechNet Gallery
 * https://gallery.technet.microsoft.com/Fetch-recently-created-635a7d98
 
-
 ## Credits
 Written by: Thomas Stensitzki
 
-Stay connected:
+## Social
 
 * My Blog: http://justcantgetenough.granikos.eu
 * Twitter: https://twitter.com/stensitzki
